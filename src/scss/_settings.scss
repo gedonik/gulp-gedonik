@@ -59,7 +59,7 @@ body {
 	appearance: none;
 	border: none;
 	border-radius: 0;
-	background-color: #fff;
+	background-color: var(--light-color);
 
 	&::-webkit-search-decoration,
 	&::-webkit-search-cancel-button,
